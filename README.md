@@ -2,7 +2,7 @@
 ## Learn Blockchain 
 
 <p>
-    <img src='./assets/bchain.gif' widht=150% height=50%>
+    <img src='./assets/bchain.gif' widht=200% height=50%>
 </p>
 Welcome to BlockMind! This repository is dedicated to learning blockchain CTF and providing writeups of CTF challenges for some Blockchain Challenges. If you're interested in developing your skills in blockchain security or testing your hacking abilities through CTF competitions, you're in the right place.
 
