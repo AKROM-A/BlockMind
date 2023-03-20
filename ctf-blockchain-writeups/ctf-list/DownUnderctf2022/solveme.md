@@ -100,5 +100,7 @@ print(tx_receipt)
 ```
 
 ## FLAG
-to get the flag just go to the `/challenge/solve` endpoint.
-```**DUCTF{muM_1_did_a_blonkchain!}**```
+to get the flag just go to the `/challenge/solve` endpoint.    
+```
+DUCTF{muM_1_did_a_blonkchain!}
+```
