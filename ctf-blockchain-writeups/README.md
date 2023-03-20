@@ -2,6 +2,8 @@
 
 This repository contains writeups for various blockchain-related Capture The Flag (CTF) challenges. The writeups are intended to help others learn more about blockchain security and to provide solutions for those who are stuck on similar challenges.
 
+Because some Challenge deployed in Goerli or Rinkeby Network, I recommend to set up a wallet in advance. The tutorial you can find it here, [Set Up You Wallet]().
+
 ## Table of Contents
 
 ### [**Ethernaut**]()
