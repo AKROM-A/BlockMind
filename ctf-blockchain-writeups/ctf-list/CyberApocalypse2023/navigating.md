@@ -9,8 +9,6 @@ in unpredictable situations. Can you use your software to find your way through 
 
 First let's download the [files](./downloadable/blockchain_navigating_the_unknown.zip) 
 
-```
-
 **Setup.sol**
 ```solidity
 pragma solidity ^0.8.18;
