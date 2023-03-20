@@ -73,9 +73,9 @@ web3 = Web3(Web3.HTTPProvider(provider_url))
 web3.middleware_onion.inject(geth_poa_middleware, layer=0)
 
 #ADDRESSES
-wallet_address = "YOUR_WALLET_ADDRESS_HERE"
-wallet_privatekey = "0xf64792a746f00890a419e6d69525dab7b95fb5fc4889625d01fa7917e1a0447f"
-contract_address = "0xfb7ACc4e787dcd2a53b5AcCF91cB868839E34cBF"
+wallet_address = "PROVIDED_WALLET_ADDRESS_HERE"
+wallet_privatekey = "PROVIDED_PRIVKEY"
+contract_address = "DEPLOYED_CONTRACT_ADDRESS"
 
 #ABI
 abi = ''[{"inputs":[],"name":"isSolved","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"solveChallenge","outputs":[],"stateMutability":"nonpayable","type":"function"}]''
