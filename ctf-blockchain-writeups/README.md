@@ -45,7 +45,7 @@ Another beginner friendly training platform similar to Ethernaut. Visit [Capture
 ### [**HackTheBox: CyberApocalypse 2023**](./ctf-list/CyberApocalypse2023/)
 1. [Navigating the Unknown](./ctf-list/CyberApocalypse2023/navigating.md) 
 2. [Shooting 101](./ctf-list/CyberApocalypse2023/shooting101.md)
-3. [The Art of Deception]()
+3. 
 
 ## Disclaimer
 
