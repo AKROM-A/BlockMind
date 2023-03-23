@@ -79,9 +79,9 @@ Setup contract  :  0x4c787E4ea28dB47Cd65d1e4702cEafcE0613d6Fc
 
 This challeenge has 3 modifier, a fallback, a receive and a function. Well let me explain a little bit about the types.
 
-**Modifier** is actively checking everythime, but we also can't call them since they'are like 'owner only function'
+- **Modifier** is actively checking everythime, but we also can't call them since they'are like 'owner only function'
 
-**function** is just a normal function...
+- **function** is just a normal function...
 
 as for receive and fallback, maybe the image below can explain it better.
 
