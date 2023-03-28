@@ -13,3 +13,4 @@ By exploring this repository, you'll gain a better understanding of blockchain t
 
 So why not dive in and explore the resources available? Who knows, you might just discover a passion for blockchain security and hone your hacking skills along the way. Let's get started!
 
+I Hope you find this Repo useful.
