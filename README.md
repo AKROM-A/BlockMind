@@ -5,4 +5,7 @@
     <img src='./assets/bchain.gif' width=900px height=200px>
 </p>  
 
-Blockmine 
+What to Write:
+- what is this repo about
+- writeups
+- audits report
